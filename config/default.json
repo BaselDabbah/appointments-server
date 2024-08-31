@@ -1,0 +1,9 @@
+{
+    "port": 5000,
+    "jwtSecret": "your_jwt_secret_key",
+    "twilioAccountSid": "your_twilio_account_sid",
+    "twilioAuthToken": "your_twilio_auth_token",
+    "twilioVerifyServiceSid": "your_twilio_verify_service_sid",
+    "twilioPhoneNumber": "+1234567890"
+}
+  
